@@ -8,7 +8,8 @@ _api_key = 'e0805332c879c42bc081dcd64f77f540'
 
 # API Methods
 _methods = {
-    'track_search' : 'track.search'    
+    'track_search'     : 'track.search',
+    'track_lyrics_get' : 'track.lyrics.get'
 }
 
 # Public
